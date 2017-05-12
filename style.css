@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Hirebee Child
+ Theme URI:    https://www.appthemes.com/themes/hirebee/
+ Description:  Hirebee Child Theme
+ Author:       ToAnh Tran
+ Author URI:   http://toanhtran.com
+ Template:     hirebee
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  hirebee-child
+*/
+
+@import url('../hirebee/styles/core/normalize.css');
+@import url('../hirebee/styles/core/foundation.min.css');
+
+
+@import url("../hirebee/style.css");
