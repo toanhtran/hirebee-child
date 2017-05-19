@@ -12,8 +12,33 @@
  Text Domain:  hirebee-child
 */
 
-@import url('../hirebee/styles/core/normalize.css');
-@import url('../hirebee/styles/core/foundation.min.css');
 
 
-@import url("../hirebee/style.css");
+
+@font-face {
+	font-family: EmilyLime;
+	src: url(public_html/wp-content/themes/hirebee-child/fonts/Emily Lime - PeoniPro.otf);
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: Champagne;
+	src: url(public_html/wp-content/themes/hirebee-child/fonts/Champagne & Limousines.ttf);
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: ChampagneItalic;
+	src: url(public_html/wp-content/themes/hirebee-child/fonts/Champagne & Limousines Italic.ttf);
+	font-weight: italic;
+
+}
+
+@font-face {
+	font-family: ChampagneBold;
+	src: url(public_html/wp-content/themes/hirebee-child/fonts/Champagne & Limousines Bold.ttf);
+	font-weight: bold;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Meddon|Open+Sans:300,400');
